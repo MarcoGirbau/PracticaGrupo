@@ -9,7 +9,6 @@ package proyectogrupo;
  *
  * @author xp
  */
-public class ClaseRobertoMeneses {
-    
+public class ClaseIgor {
     
 }
